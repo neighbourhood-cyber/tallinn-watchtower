@@ -14,7 +14,7 @@
     "timeDay": 2135,
     "timeWeek": 2539,
     "timeMonth": 2452,
-    "timeYear": 1331,
+    "timeYear": 1333,
     "dailyMinutesDown": {
       "2026-04-20": 321,
       "2026-04-19": 140,
@@ -51,7 +51,7 @@
     "timeDay": 720,
     "timeWeek": 457,
     "timeMonth": 399,
-    "timeYear": 484,
+    "timeYear": 485,
     "dailyMinutesDown": {}
   },
   {
@@ -69,7 +69,7 @@
     "timeDay": 776,
     "timeWeek": 1187,
     "timeMonth": 1170,
-    "timeYear": 1354,
+    "timeYear": 1355,
     "dailyMinutesDown": {
       "2026-03-26": 42,
       "2026-03-19": 53,
@@ -91,7 +91,7 @@
     "timeDay": 1112,
     "timeWeek": 1235,
     "timeMonth": 1216,
-    "timeYear": 1300,
+    "timeYear": 1301,
     "dailyMinutesDown": {}
   },
   {
@@ -109,7 +109,7 @@
     "timeDay": 518,
     "timeWeek": 802,
     "timeMonth": 793,
-    "timeYear": 838,
+    "timeYear": 839,
     "dailyMinutesDown": {
       "2026-05-23": 88,
       "2026-01-23": 27,
@@ -121,17 +121,17 @@
     "url": "https://www.tlt.ee/",
     "icon": "https://nilspace.xyz/content/images/2023/05/transportation-1.png",
     "slug": "tallinna-linnatranspordi-as",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "95.18%",
-    "uptimeWeek": "97.12%",
+    "uptimeDay": "95.16%",
+    "uptimeWeek": "97.72%",
     "uptimeMonth": "96.51%",
     "uptimeYear": "99.18%",
-    "time": 1919,
+    "time": 1920,
     "timeDay": 1394,
-    "timeWeek": 1851,
+    "timeWeek": 1884,
     "timeMonth": 2109,
-    "timeYear": 2060,
+    "timeYear": 2061,
     "dailyMinutesDown": {
       "2026-05-30": 69,
       "2026-05-25": 55,
